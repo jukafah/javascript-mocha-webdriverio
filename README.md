@@ -1,2 +1,2 @@
-# mocha-demo
+# mocha-webdriverio
 mocha demo with webdriverio
